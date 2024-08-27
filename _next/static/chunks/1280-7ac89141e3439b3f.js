@@ -1380,13 +1380,13 @@
                                                   em.placement.pricing.amount,
                                                   6
                                                 ),
-                                                " AET per block",
+                                                " AETH per block",
                                                 (0, n.jsx)(a.WH, {
                                                   title: (0, n.jsxs)(
                                                     n.Fragment,
                                                     {
                                                       children: [
-                                                        "The maximum amount of  AET you're willing to pay per block (~6 seconds).",
+                                                        "The maximum amount of  AETH you're willing to pay per block (~6 seconds).",
                                                         (0, n.jsx)("br", {}),
                                                         (0, n.jsx)("br", {}),
                                                         "Aethernet will only show providers costing ",
