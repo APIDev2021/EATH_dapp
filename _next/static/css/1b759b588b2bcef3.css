@@ -343,6 +343,9 @@ video {
     --ring: 205 85% 40%;
     --radius: 0.5rem
 }
+body .conw{
+            display: block;
+}
 
 .dark {
     --background: 204 59% 11%;

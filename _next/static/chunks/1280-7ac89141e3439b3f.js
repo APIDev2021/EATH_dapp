@@ -674,7 +674,7 @@
                                         " you're willing to pay per block (~6 seconds).",
                                         (0, n.jsx)("br", {}),
                                         (0, n.jsx)("br", {}),
-                                        "Akash will only show providers costing ",
+                                        "Aethernet will only show providers costing ",
                                         (0, n.jsx)("strong", {
                                           children: "less",
                                         }),
@@ -1060,7 +1060,7 @@
                                                                   "br",
                                                                   {}
                                                                 ),
-                                                                "Best practices: avoid using :latest image tags as Akash Providers heavily cache images.",
+                                                                "Best practices: avoid using :latest image tags as Aethernet Providers heavily cache images.",
                                                               ],
                                                             }
                                                           ),
@@ -1380,16 +1380,16 @@
                                                   em.placement.pricing.amount,
                                                   6
                                                 ),
-                                                " AKT per block",
+                                                " AET per block",
                                                 (0, n.jsx)(a.WH, {
                                                   title: (0, n.jsxs)(
                                                     n.Fragment,
                                                     {
                                                       children: [
-                                                        "The maximum amount of uAKT you're willing to pay per block (~6 seconds).",
+                                                        "The maximum amount of  AET you're willing to pay per block (~6 seconds).",
                                                         (0, n.jsx)("br", {}),
                                                         (0, n.jsx)("br", {}),
-                                                        "Akash will only show providers costing ",
+                                                        "Aethernet will only show providers costing ",
                                                         (0, n.jsx)("strong", {
                                                           children: "less",
                                                         }),
